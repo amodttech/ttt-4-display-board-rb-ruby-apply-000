@@ -9,5 +9,3 @@ def display_board(board)
   puts rows[4]
   puts rows[5]
 end
-
-puts display_board(board)
